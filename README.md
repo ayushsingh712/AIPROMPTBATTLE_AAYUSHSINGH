@@ -1,1 +1,6 @@
-# AIPROMPTBATTLE_AAYUSHSINGH
+i am thinking that i have to make a food website like other brands live zomato and dominos in which the it gives a feel of hungery and i want that the all the options and buttons are on the corrected place and as a human psychology like finger position and eye catching and the colour and contrast is like food related colours like yellow orange or red all food items should be in round square box proper tagline like hungry? We have got you covered and proper text alignment and proper colours proper images of food image create a gradient of colours and add required button like add to card and add boldness to the important highlights give html and css code separately 
+Now give the proper eye catching offers in the website and add only thode images which are available on the web and add around 8 different categories of food like burger pizza drinks cakes and give more dynamic website add some gradient on the colour of the website also add a search bar to search the food items
+Add bold fonts and now add nambar and add category like home menu offers connect and login and add category while browsing in the above html and css file
+Write the navigation menu on the right and side and add old price and new offer price with cutting old pricing below the category
+Add old price in cut and older form and optimise the nav bar
+Create a special offer section in which setup the discounted price on the category
